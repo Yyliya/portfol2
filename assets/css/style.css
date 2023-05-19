@@ -807,6 +807,13 @@ figure.effect-bubba {
 	background: #9e5406;
 }
 
+figure.effect-bubba h2 {
+	font-weight: 500;
+}
+figure.effect-bubba span {
+	font-weight: 800;
+
+}
 figure.effect-bubba img {
 	opacity: 0.7;
 	-webkit-transition: opacity 0.35s;
